@@ -1,0 +1,2412 @@
+<?xml version="1.0"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyProcessor>
+    <Processor>
+      <Id>BFEBFBFF000206A7</Id>
+      <Name>Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz</Name>
+      <Caption>Intel64 Family 6 Model 42 Stepping 7</Caption>
+      <Manufacturer>GenuineIntel</Manufacturer>
+      <Speed>2501</Speed>
+      <BusSpeed>400</BusSpeed>
+      <CacheSize>512</CacheSize>
+      <NumberOfCores>2</NumberOfCores>
+      <NumberOfThreads>4</NumberOfThreads>
+      <Bit>64</Bit>
+      <SocketType>SOCKET 0</SocketType>
+    </Processor>
+  </MyProcessor>
+  <MyVideo>
+    <Video>
+      <VideoID>PCI\VEN_10DE&amp;DEV_0FD1&amp;SUBSYS_20DD1B0A&amp;REV_A1\4&amp;5DD373E&amp;0&amp;0008</VideoID>
+      <Name>NVIDIA GeForce GT 650M</Name>
+      <Caption>NVIDIA GeForce GT 650M</Caption>
+      <DriverVersion>21.21.13.7654</DriverVersion>
+      <VideoProcessor>GeForce GT 650M</VideoProcessor>
+      <TypeDAC>Integrated RAMDAC</TypeDAC>
+      <Memory>1024</Memory>
+    </Video>
+    <Video>
+      <VideoID>PCI\VEN_8086&amp;DEV_0126&amp;SUBSYS_20DD1B0A&amp;REV_09\3&amp;11583659&amp;0&amp;10</VideoID>
+      <Name>Intel(R) HD Graphics 3000</Name>
+      <Caption>Intel(R) HD Graphics 3000</Caption>
+      <DriverVersion>9.17.10.4459</DriverVersion>
+      <VideoProcessor>Intel(R) HD Graphics Family</VideoProcessor>
+      <TypeDAC>Internal</TypeDAC>
+      <Memory>2108</Memory>
+    </Video>
+  </MyVideo>
+  <MyMemory>
+    <Memory>
+      <SerialNumber>9C410524</SerialNumber>
+      <BankLabel>BANK 0</BankLabel>
+      <PartNumber>NT4GC64B8HG0NS-CG </PartNumber>
+      <Capacity>4096</Capacity>
+      <Speed>1333</Speed>
+    </Memory>
+    <Memory>
+      <SerialNumber>C1480524</SerialNumber>
+      <BankLabel>BANK 2</BankLabel>
+      <PartNumber>NT4GC64B8HG0NS-CG </PartNumber>
+      <Capacity>4096</Capacity>
+      <Speed>1333</Speed>
+    </Memory>
+  </MyMemory>
+  <MyHardDisk>
+    <HardDisk>
+      <SerialNumber>20090516388200000</SerialNumber>
+      <Caption>Generic- Multi-Card USB Device</Caption>
+      <Size>Nodata</Size>
+      <PartitionValue>0</PartitionValue>
+    </HardDisk>
+    <HardDisk>
+      <SerialNumber>S2HUJ9BZB04384</SerialNumber>
+      <Caption>SAMSUNG HM641JI</Caption>
+      <Size>596,169769763947</Size>
+      <PartitionValue>1</PartitionValue>
+    </HardDisk>
+    <HardDisk>
+      <SerialNumber>S251NX0H619427J</SerialNumber>
+      <Caption>Samsung SSD 850 PRO 256GB</Caption>
+      <Size>238,467907905579</Size>
+      <PartitionValue>2</PartitionValue>
+    </HardDisk>
+  </MyHardDisk>
+  <MyWindows>
+    <Windows>
+      <ProductName>Windows 10 Pro</ProductName>
+      <InstallDate>0</InstallDate>
+      <CurrentBuild>14393</CurrentBuild>
+    </Windows>
+  </MyWindows>
+  <MyKeyboard>
+    <Keyboard />
+    <Keyboard />
+    <Keyboard />
+    <Keyboard />
+  </MyKeyboard>
+  <MyMouse>
+    <Mouse />
+    <Mouse />
+    <Mouse />
+  </MyMouse>
+  <MyMonitor />
+  <MyCDROM />
+  <MySound>
+    <Sound>
+      <SoundID>HDAUDIO\FUNC_01&amp;VEN_8086&amp;DEV_2806&amp;SUBSYS_1B0A204A&amp;REV_1000\4&amp;12614D03&amp;0&amp;0301</SoundID>
+      <Name>Устройство с поддержкой High Definition Audio</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Sound>
+    <Sound>
+      <SoundID>ROOT\UNNAMED_DEVICE\0000</SoundID>
+      <Name>NVIDIA Virtual Audio Device (Wave Extensible) (WDM)</Name>
+      <Manufacturer>NVIDIA</Manufacturer>
+    </Sound>
+    <Sound>
+      <SoundID>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0269&amp;SUBSYS_1B0A20D7&amp;REV_1002\4&amp;12614D03&amp;0&amp;0001</SoundID>
+      <Name>Realtek High Definition Audio</Name>
+      <Manufacturer>Realtek</Manufacturer>
+    </Sound>
+  </MySound>
+  <MyNetwork>
+    <Network>
+      <NetworkID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_012310EC&amp;REV_07\4&amp;1FED1214&amp;0&amp;00E2</NetworkID>
+      <MACAdress>4C:72:B9:05:67:62</MACAdress>
+      <Name>Realtek PCIe GBE Family Controller</Name>
+      <Manufacturer>Realtek</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>PCI\VEN_168C&amp;DEV_0037&amp;SUBSYS_21001A3B&amp;REV_01\4&amp;1DAB2F77&amp;0&amp;00E1</NetworkID>
+      <MACAdress>94:DB:C9:ED:52:DB</MACAdress>
+      <Name>Qualcomm Atheros AR1111 WB-EG Wireless Network Adapter</Name>
+      <Manufacturer>Qualcomm Atheros Communications Inc.</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&amp;89A0ED6&amp;0&amp;11</NetworkID>
+      <MACAdress>16:DB:C9:ED:52:DB</MACAdress>
+      <Name>Microsoft Wi-Fi Direct Virtual Adapter</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>BTH\MS_BTHPAN\7&amp;383317EA&amp;0&amp;2</NetworkID>
+      <MACAdress>94:DB:C9:ED:4E:6A</MACAdress>
+      <Name>Bluetooth Device (Personal Area Network)</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>SWD\MSRRAS\MS_NDISWANIP</NetworkID>
+      <MACAdress>C6:53:20:52:41:53</MACAdress>
+      <Name>WAN Miniport (IP)</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>SWD\MSRRAS\MS_NDISWANIPV6</NetworkID>
+      <MACAdress>F8:F8:20:52:41:53</MACAdress>
+      <Name>WAN Miniport (IPv6)</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>SWD\MSRRAS\MS_NDISWANBH</NetworkID>
+      <MACAdress>FC:CB:20:52:41:53</MACAdress>
+      <Name>WAN Miniport (Network Monitor)</Name>
+      <Manufacturer>Microsoft</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>ROOT\NET\0001</NetworkID>
+      <MACAdress>7A:79:19:35:9E:8D</MACAdress>
+      <Name>LogMeIn Hamachi Virtual Ethernet Adapter</Name>
+      <Manufacturer>LogMeIn Inc.</Manufacturer>
+    </Network>
+    <Network>
+      <NetworkID>ROOT\NET\0000</NetworkID>
+      <MACAdress>0A:00:27:00:00:03</MACAdress>
+      <Name>VirtualBox Host-Only Ethernet Adapter</Name>
+      <Manufacturer>Oracle Corporation</Manufacturer>
+    </Network>
+  </MyNetwork>
+  <MyMotheboard>
+    <Motheboard>
+      <Name>Основная плата</Name>
+      <Manufacturer>PEGATRON CORPORATION</Manufacturer>
+      <SerialNumber>BSN12345678901234567</SerialNumber>
+    </Motheboard>
+  </MyMotheboard>
+  <MySoft>
+    <Soft>
+      <Caption>ACDSeePro</Caption>
+      <Version>9.3.0.545</Version>
+      <Vendor>ACD Systems International Inc.</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>AFPL Ghostscript 8.53</Caption>
+    </Soft>
+    <Soft>
+      <Caption>MSI Afterburner 4.3.0 Beta 14</Caption>
+      <Version>4.3.0 Beta 14</Version>
+      <Vendor>MSI Co., LTD</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>ArtMoney SE v7.45.1</Caption>
+      <Version>7.45.1</Version>
+      <Vendor>System SoftLab</Vendor>
+      <InstallDate>20161202</InstallDate>
+      <InstallLocation>c:\Games\ArtMoney\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Bloody6</Caption>
+      <Version>16.07.0013</Version>
+      <Vendor>Bloody</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Google Chrome</Caption>
+      <Version>56.0.2924.87</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallDate>20160826</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Google\Chrome\Application</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Heroes of Might and Magic® III: Horn of the Abyss + HD mod</Caption>
+      <Version>1.4.2</Version>
+      <InstallDate>20170130</InstallDate>
+      <InstallLocation>C:\Games\Heroes of Might and Magic III\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>IntelliJ IDEA 2016.3</Caption>
+      <Version>163.7743.44</Version>
+      <Vendor>JetBrains s.r.o.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>LogMeIn Hamachi</Caption>
+      <Version>2.2.0.558</Version>
+      <Vendor>LogMeIn, Inc.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\LogMeIn Hamachi\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Help Viewer 2.2</Caption>
+      <Version>2.2.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Help Viewer\v2.2\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Movavi Video Suite 15</Caption>
+      <Version>15.4.0</Version>
+      <Vendor>Movavi</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Movavi Video Suite 15</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Notepad++ (32-bit x86)</Caption>
+      <Version>7.3.3</Version>
+      <Vendor>Notepad++ Team</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>NVIDIA Stereoscopic 3D Driver</Caption>
+      <Version>7.17.13.7500</Version>
+      <Vendor>NVIDIA Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\NVIDIA Corporation\3D Vision</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office профессиональный плюс 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Opera Stable 43.0.2442.1144</Caption>
+      <Version>43.0.2442.1144</Version>
+      <Vendor>Opera Software</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Opera</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Origin</Caption>
+      <Version>9.12.2.60376</Version>
+      <Vendor>Electronic Arts, Inc.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Origin</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>PunkBuster Services</Caption>
+      <Version>0.991</Version>
+      <Vendor>Even Balance, Inc.</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>RivaTuner Statistics Server 6.5.0 Beta 5</Caption>
+      <Version>6.5.0 Beta 5</Version>
+      <Vendor>Unwinder</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Steam</Caption>
+      <Version>2.10.91.91</Version>
+      <Vendor>Valve Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>TaoFramework 2.1.0</Caption>
+      <Version>2.1.0</Version>
+      <Vendor>TaoFramework</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>TeamViewer 11</Caption>
+      <Version>11.0.73909</Version>
+      <Vendor>TeamViewer</Vendor>
+      <InstallLocation>C:\Program Files (x86)\TeamViewer</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Tropico 4 v11.05.14</Caption>
+      <Version>11.05.14</Version>
+      <Vendor>SerGEAnt's Zone Of Games</Vendor>
+      <InstallDate>20161128</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Steam\steamapps\common\Tropico 4\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Uplay</Caption>
+      <Version>27.0</Version>
+      <Vendor>Ubisoft</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>VLC media player</Caption>
+      <Version>2.2.4</Version>
+      <Vendor>VideoLAN</Vendor>
+      <InstallLocation>C:\Program Files (x86)\VideoLAN\VLC</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86)</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 X86 Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library PGO X86 Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Shell (Minimum)</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 Native Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Redistributable</Caption>
+      <Version>10.0.26624</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501</Caption>
+      <Version>12.0.30501.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 ARM Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Google Drive</Caption>
+      <Version>1.32.4066.7445</Version>
+      <Vendor>Google, Inc.</Vendor>
+      <InstallDate>20161216</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Portable Library Multi-Targeting Pack</Caption>
+      <Version>14.0.25431.01</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>WCF Data Services Tools for Microsoft Visual Studio 2015</Caption>
+      <Version>5.6.62175.4</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Управляющие объекты Microsoft SQL Server 2016 </Caption>
+      <Version>13.0.1601.5</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Windows Express Plus Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Application Insights Tools for Visual Studio 2015</Caption>
+      <Version>7.0.20622.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Azure Mobile Services Connected Service</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 X64 Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>MSBuild/NuGet Integration 14.0 (x86)</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Professional 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005</Caption>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160826</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Enterprise 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Пакет SDK Microsoft .NET Framework 4.5.1 (Русский)</Caption>
+      <Version>4.5.51641</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X86 Redist Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft VisualStudio JavaScript Project System</Caption>
+      <Version>14.0.25527</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption> Tools for .Net 3.5</Caption>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.5.1 SDK</Caption>
+      <Version>4.5.51641</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.5.2 Multi-Targeting Pack</Caption>
+      <Version>4.5.51651</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X64 Desktop Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X86 Desktop Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>AzureTools.Notifications</Caption>
+      <Version>2.7.30611.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Конструктор пользовательского интерфейса XAML Microsoft Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - RUS</Caption>
+      <Version>4.1.41102.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library ATL Source Package</Caption>
+      <Version>14.0.23026</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148</Caption>
+      <Version>9.0.30729.4148</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160911</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Extension SDK</Caption>
+      <Version>10.0.26624</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Desktop Plus Resource Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>WCF Data Services Tools for Microsoft Visual Studio 2015 RUS Language Pack</Caption>
+      <Version>5.6.62175.4</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 XAML Application Timeline</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 X64 Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library ATL X86 Package</Caption>
+      <Version>14.0.23026</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет средств тестирования Microsoft Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Extension SDK</Caption>
+      <Version>10.0.10150</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library PGO Headers Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Подготовка Microsoft Visual Studio 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Samsung Magician</Caption>
+      <Version>5.0.0.790</Version>
+      <Vendor>Samsung Electronics</Vendor>
+      <InstallDate>20170212</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Samsung\Samsung Magician\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1</Caption>
+      <Version>14.0.41103.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005</Caption>
+      <Version>12.0.21005.1</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual F# 4.0 SDK Language Pack - RUS</Caption>
+      <Version>14.0.23413</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6 Targeting Pack</Caption>
+      <Version>4.6.00081</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Средства диагностики Microsoft Visual Studio 2015 с обновлением 3 — RUS</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft NuGet - Visual Studio 2015</Caption>
+      <Version>3.4.4.1321</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6.1 SDK</Caption>
+      <Version>4.6.01055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Целевой пакет Microsoft .NET Framework 4.6 (Русский)</Caption>
+      <Version>4.6.00127</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Base Package</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium ARM Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft.VisualStudio.Office365</Caption>
+      <Version>1.6.2.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET MVC 4 - Visual Studio 2015 - RUS</Caption>
+      <Version>4.1.41102.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 Native Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft SQL Server Data Tools - RUS (14.0.60519.0)</Caption>
+      <Version>14.0.60519.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030</Caption>
+      <Version>11.0.61030.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT ARM Store Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ MSBuild Base Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Software Development Kit for Windows Store Apps</Caption>
+      <Version>8.100.26936</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Ресурсы Microsoft Visual Studio 2015 Devenv</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Blend for Visual Studio SDK for .NET 4.5</Caption>
+      <Version>3.0.40218.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Professional Items Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium ARM Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>HiPatch</Caption>
+      <Version>5.0.7.7</Version>
+      <Vendor>Hi-Rez Studios</Vendor>
+      <InstallDate>20161207</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Hi-Rez Studios</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Hi-Rez Studios Authenticate and Update Service</Caption>
+      <Version>3.0.0.0</Version>
+      <Vendor>Hi-Rez Studios</Vendor>
+      <InstallDate>20161202</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Hi-Rez Studios</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 X86 Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library ATL Headers Package</Caption>
+      <Version>14.0.23026</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Пакет многоплатформенного нацеливания Microsoft .NET Framework 4.5.1 (Русский)</Caption>
+      <Version>4.5.50932</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Windows Diagnostic Tools</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Ресурсы оболочки Microsoft Visual Studio 2015 Shell (минимальной)</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 XAML Application Timeline - ENU</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Espc Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft VisualStudio JavaScript Language Service</Caption>
+      <Version>14.0.25527</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>PreEmptive Analytics Visual Studio Components</Caption>
+      <Version>1.2.5134.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Professional Templates Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU</Caption>
+      <Version>4.1.41102.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6.1 Developer Pack</Caption>
+      <Version>4.6.1055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>TypeScript Power Tool</Caption>
+      <Version>1.8.34.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Help Viewer 2.2</Caption>
+      <Version>2.2.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Premium 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Java Auto Updater</Caption>
+      <Version>2.8.111.14</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallDate>20161213</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Profiling Tools</Caption>
+      <Version>14.0.25123</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Веб-представления отладчика производительности Microsoft Visual Studio 2015 с обновлением 3 — ресурсы RUS</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Active Directory Authentication Library для SQL Server (x86)</Caption>
+      <Version>13.0.1601.5</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015 - rus</Caption>
+      <Version>14.1.11107.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Build Tools Language Resources 14.0 (x86)</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 ARM Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ MSBuild ARM Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005</Caption>
+      <Version>12.0.21005.1</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT Redist Resource Package</Caption>
+      <Version>14.0.24215</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library ATL ARM Package</Caption>
+      <Version>14.0.23026</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Azure Mobile Services Tools for Visual Studio - v1.4</Caption>
+      <Version>1.4.30611.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library PGO ARM Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Software Development Kit for Windows Store Apps DirectX x86 Remote</Caption>
+      <Version>8.100.26936</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.5 Multi-Targeting Pack</Caption>
+      <Version>4.5.50710</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Apple Software Update</Caption>
+      <Version>2.2.0.150</Version>
+      <Vendor>Apple Inc.</Vendor>
+      <InstallDate>20160927</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Apple Software Update\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Необходимые компоненты для SSDT </Caption>
+      <Version>13.0.1601.5</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет средств мобильных служб Microsoft Azure для Visual Studio - v1.4</Caption>
+      <Version>1.4.30611.1601</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Professional 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 ARM Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library ATL X64 Package</Caption>
+      <Version>14.0.23026</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU</Caption>
+      <Version>14.102.25619</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 IntelliTrace Front End</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual F# 4.0 VS Language Pack - RUS</Caption>
+      <Version>14.0.23413</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Dotfuscator and Analytics Community Edition 5.22.0</Caption>
+      <Version>5.22.0.3788</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015</Caption>
+      <Version>14.1.11107.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Enterprise 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Enterprise 2015 с обновлениями</Caption>
+      <Version>14.0.25420.1</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Base Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Google Update Helper</Caption>
+      <Version>1.3.32.7</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallDate>20161217</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Программное обеспечение Intel® Chipset Device</Caption>
+      <Version>10.1.1.14</Version>
+      <Vendor>Intel(R) Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Пакет многоплатформенного нацеливания Microsoft .NET Framework 4.5.1 RC для приложений Магазина Windows (Русский)</Caption>
+      <Version>4.5.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X64 Redist Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU</Caption>
+      <Version>4.1.41102.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft SQL Server 2016 T-SQL Language Service </Caption>
+      <Version>13.0.14500.10</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Premium 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 SDK - ENU</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 Native Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Roslyn Language Services - x86</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215</Caption>
+      <Version>14.0.24215</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Необходимые компоненты для SSDT </Caption>
+      <Version>12.0.2000.8</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.5.1 Multi-Targeting Pack</Caption>
+      <Version>4.5.50932</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Build Tools 14.0 (x86)</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Пакет многоплатформенного нацеливания Microsoft .NET Framework 4.5.2 (Русский)</Caption>
+      <Version>4.5.51209</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Debugger Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Common Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2005 Redistributable</Caption>
+      <Version>8.0.56336</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160918</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ CRT Headers Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Пакет SDK Microsoft .NET Framework 4.6.1 (Русский)</Caption>
+      <Version>4.6.01055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Connected Services</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption> Tools for .Net 3.5 - RUS Lang Pack</Caption>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Services Hub</Caption>
+      <Version>1.0.25420.01</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual Studio 2015 Update 3 (KB3022398)</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Team Explorer for Microsoft Visual Studio 2015 Update 3.1</Caption>
+      <Version>14.102.25619</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Package</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Внешний интерфейс IntelliTrace Microsoft Visual Studio 2015 с обновлением 3 — ресурсы RUS</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Community 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>LogMeIn Hamachi</Caption>
+      <Version>2.2.0.558</Version>
+      <Vendor>LogMeIn, Inc.</Vendor>
+      <InstallDate>20170317</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Update for Microsoft Visual Studio 2015 (KB3165756)</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Silverlight</Caption>
+      <Version>5.1.20513.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Silverlight\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ MSBuild Base Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Azure AD Authentication Connected Service</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Blend для Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6.1 Targeting Pack</Caption>
+      <Version>4.6.01055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Headers Libraries and Sources</Caption>
+      <Version>10.0.26624</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual Studio Graphics Analyzer</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ MSBuild X86 Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Целевой пакет Microsoft .NET Framework 4.6.1 (Русский)</Caption>
+      <Version>4.6.01055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)</Caption>
+      <Version>4.6.01055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Azure Storage Connected Service</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X64 Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office Professional Plus 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Access MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Excel MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft PowerPoint MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Publisher MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Outlook MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Word MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office Korrekturhilfen 2016 – Deutsch</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office Proofing Tools 2016 - English</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Средства проверки правописания Microsoft Office 2016 — русский</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Засоби перевірки правопису Microsoft Office 2016 – українська</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office Proofing (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft InfoPath MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office Shared MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft DCF MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft OneNote MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Groove MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office OSM MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Office OSM UX MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Skype for Business MUI (Russian) 2016</Caption>
+      <Version>16.0.4266.1001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161204</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет для пакета SDK Microsoft Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 X64 Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT ARM Redist Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Предварительная версия Microsoft Agents для Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.23102</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps</Caption>
+      <Version>4.5.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - RUS</Caption>
+      <Version>5.2.40314.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Software Development Kit</Caption>
+      <Version>8.100.26936</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Native Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17</Caption>
+      <Version>9.0.30729</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160912</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Expression Blend SDK for .NET 4</Caption>
+      <Version>2.0.20525.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Поддержка программ Apple (x86)</Caption>
+      <Version>5.3.1</Version>
+      <Vendor>Apple Inc.</Vendor>
+      <InstallDate>20170130</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Common Files\Apple\Apple Application Support\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Caption>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160905</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Test Tools for Microsoft Visual Studio 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT Source Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Azure Mobile Services SDK V2.0</Caption>
+      <Version>2.0.20908.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет для средства просмотра справки Майкрософт 2.2 - RUS</Caption>
+      <Version>2.2.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Software Development Kit DirectX x86 Remote</Caption>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Professional Items Resource Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Гибридные приложения для разных устройств с использованием C# — Шаблоны — RUS</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual Studio 2012 Verification SDK</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Portable Library Multi-Targeting Pack Language Pack - rus</Caption>
+      <Version>14.0.25420.01</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Adobe Photoshop CS5</Caption>
+      <Vendor>Adobe</Vendor>
+      <InstallDate>20160918</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Adobe\Adobe Photoshop CS5\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>vs_update3notification</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Headers Libraries and Sources</Caption>
+      <Version>10.0.10150</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 ARM Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 ARM Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Universal CRT Tools x86</Caption>
+      <Version>10.0.26624</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Caption>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160911</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>VS Update core components</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 с обновлением 3 IntelliTrace (x86) — ресурсы RUS</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6 SDK</Caption>
+      <Version>4.6.00081</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет Dotfuscator and Analytics Community Edition 5.22.0 ru-RU</Caption>
+      <Version>5.22.0.3788</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 Native Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>TypeScript Tools for Microsoft Visual Studio 2015</Caption>
+      <Version>1.8.36.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Optional Desktop Support Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215</Caption>
+      <Version>14.0.24215</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Common Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft System CLR Types для SQL Server 2016</Caption>
+      <Version>13.0.1601.5</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Caption>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160911</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Professional Plus Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Base Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X86 Store Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library PGO X86 Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 Native Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 Native Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Professional Core Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Native Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215</Caption>
+      <Version>14.0.24215</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030</Caption>
+      <Version>11.0.61030.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU</Caption>
+      <Version>5.2.40314.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Etxt Антиплагиат</Caption>
+      <Version>4.36</Version>
+      <Vendor>ООО "Инет-Трейд"</Vendor>
+      <InstallDate>20161003</InstallDate>
+      <InstallLocation>C:\Program Files (x86)\Etxt Antiplagiat\</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Agents for Visual Studio 2015 Preview</Caption>
+      <Version>14.0.23102</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4 Multi-Targeting Pack</Caption>
+      <Version>4.0.30319</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Update for  (KB2504637)</Caption>
+      <Version>1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Сборки пакета SDK для Windows Phone 8.0 для Visual Studio 2015 — RUS</Caption>
+      <Version>14.0.25123</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет для общих компонентов Microsoft Azure для Visual Studio 2015 (RUS) — v1.8</Caption>
+      <Version>1.8.40521.1</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Blend for Visual Studio 2015</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X86 Base Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215</Caption>
+      <Version>14.0.24215.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 XAML Designer</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Core Professional Plus Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>PreEmptive Analytics Client Russian Language Pack</Caption>
+      <Version>1.2.5134.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>WCF Data Services 5.6.4 Runtime</Caption>
+      <Version>5.6.62175.4</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Служба языка T-SQL Microsoft SQL Server 2014 </Caption>
+      <Version>12.0.2000.8</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio Community 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT X64 Store Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft System CLR Types для SQL Server 2014</Caption>
+      <Version>12.0.2402.29</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Core 5.0 SDK</Caption>
+      <Version>1.0.23902</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools X86 ARM Cross Resource Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215</Caption>
+      <Version>14.0.24215.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library PGO X64 Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Runtime Intellisense Content - ru-ru</Caption>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Управляющие объекты Microsoft SQL Server 2014 </Caption>
+      <Version>12.0.2000.8</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Base Resource Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Пакет SDK Microsoft .NET Framework 4.6 (русский)</Caption>
+      <Version>4.6.00081</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Desktop Plus Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ MSBuild X64 Package</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Library CRT ARM Desktop Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>WCF Data Services 5.6.4 RUS Language Pack</Caption>
+      <Version>5.6.62175.4</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Azure Shared Components for Visual Studio 2015 - v1.8</Caption>
+      <Version>1.8.40521.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Caption>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160826</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Intel(R) Processor Graphics</Caption>
+      <Version>9.17.10.4229</Version>
+      <Vendor>Intel Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Intel\Intel(R) Processor Graphics</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Realtek High Definition Audio Driver</Caption>
+      <Version>6.0.1.7541</Version>
+      <Vendor>Realtek Semiconductor Corp.</Vendor>
+      <InstallDate>20160826</InstallDate>
+      <InstallLocation>C:\Program Files\Realtek\Audio\HDA</InstallLocation>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24210</Caption>
+      <Version>14.0.24210.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ Compiler/Tools Premium X64 X86 Cross Package</Caption>
+      <Version>14.0.24210</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows App Certification Kit x64</Caption>
+      <Version>8.100.26795</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161104</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Visual C++ IDE Debugger Package</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Средства диагностики Microsoft Visual Studio 2015 с обновлением 3 — RUS</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Подготовка Microsoft Visual Studio 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft .NET Framework 4.6.1 Developer Pack (RUS)</Caption>
+      <Version>4.6.1055</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501</Caption>
+      <Version>12.0.30501.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+    </Soft>
+    <Soft>
+      <Caption>Подготовка Microsoft Visual Studio 2015</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005</Caption>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20160826</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 Devenv</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Windows Espc Resource Package</Caption>
+      <Version>14.0.23107</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Microsoft Visual Studio 2015 XAML Visual Diagnostics</Caption>
+      <Version>14.0.25431</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Службы языка Roslyn - x86</Caption>
+      <Version>14.0.25420</Version>
+      <Vendor>Корпорация Майкрософт</Vendor>
+      <InstallDate>20161006</InstallDate>
+      <InstallLocation />
+    </Soft>
+    <Soft>
+      <Caption>Языковой пакет для Microsoft Help Viewer 2.2 — RUS</Caption>
+      <Version>2.2.25420</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Help Viewer\v2.2\</InstallLocation>
+    </Soft>
+  </MySoft>
+</Inventory>

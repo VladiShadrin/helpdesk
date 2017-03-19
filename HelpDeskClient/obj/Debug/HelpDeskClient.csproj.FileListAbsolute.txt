@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\bin\Debug\HelpDeskClient.exe.config
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\bin\Debug\HelpDeskClient.exe
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\bin\Debug\HelpDeskClient.pdb
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.Form1.resources
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.Properties.Resources.resources
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.csproj.GenerateResource.Cache
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.exe
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\obj\Debug\HelpDeskClient.pdb
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladi\Documents\Влад Магистратура\МАГИСТРСКАЯ\HelpDesk\HelpDeskClient\HelpDeskClient\bin\Debug\Newtonsoft.Json.xml
